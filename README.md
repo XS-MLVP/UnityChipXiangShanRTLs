@@ -1,4 +1,4 @@
-# UnityChipXiangshanRTLs
+# UnityChipXiangShanRTLs
 OpenXiangShan RTL exported from chisel
 
 ### 2024092701 release
