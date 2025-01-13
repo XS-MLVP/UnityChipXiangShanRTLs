@@ -6,11 +6,6 @@ OpenXiangShan RTL exported from chisel
 2. This RTL does not include debug information (e.g., assert, etc).
 3. Download RLT tarball, [tag: 2024120901/openxiangshan-kmh-fad7803d-24120901.tar.gz](https://github.com/XS-MLVP/UnityChipXiangShanRTLs/releases/download/2024120901/openxiangshan-kmh-fad7803d-24120901.tar.gz).
 
-### 2025010301 release
-1. This RTL is exported from [OpenXiangShan](https://github.com/OpenXiangShan/XiangShan)(tag is [ca892e73](https://github.com/OpenXiangShan/XiangShan/commit/ca892e73))
-2. This RTL does not include debug information (e.g., assert, etc).
-3. Download RLT tarball, [tag: 2025010301/openxiangshan-kmh-ca892e73-25010301.tar.gz](https://github.com/XS-MLVP/UnityChipXiangShanRTLs/releases/download/2025010301/openxiangshan-kmh-ca892e73-25010301.tar.gz)
-
 ### 2024120301 release
 1. This RTL is exported from [OpenXiangShan](https://github.com/OpenXiangShan/XiangShan)(tag is [2e5ebf51](https://github.com/OpenXiangShan/XiangShan/commit/2e5ebf51))
 2. This RTL does not include debug information (e.g., assert, etc).
