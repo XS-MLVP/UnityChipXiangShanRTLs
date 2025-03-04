@@ -1,6 +1,11 @@
 # UnityChipXiangShanRTLs
 OpenXiangShan RTL exported from chisel
 
+### 2025022801 release
+1. This RTL is exported from [OpenXiangShan](https://github.com/OpenXiangShan/XiangShan)(tag is [66e9b546](https://github.com/OpenXiangShan/XiangShan/commit/66e9b546))
+2. This RTL does not include debug information (e.g., assert, etc).
+3. Download RLT tarball, [tag: 2025022801/openxiangshan-kmh-66e9b546-25022801.tar.gz](https://github.com/XS-MLVP/UnityChipXiangShanRTLs/releases/download/2025022801/openxiangshan-kmh-66e9b546-25022801.tar.gz)
+
 ### 2025010301 release
 1. This RTL is exported from [OpenXiangShan](https://github.com/OpenXiangShan/XiangShan)(tag is [ca892e73](https://github.com/OpenXiangShan/XiangShan/commit/ca892e73))
 2. This RTL does not include debug information (e.g., assert, etc).
